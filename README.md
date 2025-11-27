@@ -6,8 +6,9 @@
 ---
 
 ### 🚀 About Me
-- 🇸🇾 From Syria — Based in UAE
-- 🧑‍💻 Passionate about creating useful software
+- 🇸🇾 From Syria — Based in UAE  
+- 🎂 Age: 20 years  
+- 🧑‍💻 Passionate about creating useful software  
 - 🎯 Capabilities:
   - Developing **websites** from scratch  
   - Developing **desktop applications** from start to finish  
@@ -40,12 +41,12 @@
 |--------|-------------|------|
 | **Raiden** | Smart voice-assistant mobile app | C#, SQL |
 | **School Pro System** | Real school management system (sellable product) | C#, WPF, SQL |
+| **Driving School** | **Complete, fully functional management system for driving school** | C#, WPF, SQL |
 
 #### 🎓 Learning / Training Projects
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Pizza Project** | Desktop app for managing pizza orders | C#, SQL |
-| **Driving School System** | Desktop management system | C#, WPF, SQL |
 | **Requirements Project** | Small project to practice requirements analysis | C# |
 | **Tic-Tac-Toe Game** | Simple desktop game | C# |
 | **Web Pages Collection** | Practice web development | HTML, CSS, JavaScript |
@@ -56,7 +57,7 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adnan-Ghiyath&show_icons=true&theme=react&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Ghiyath&layout=compact&theme=react&hide_border=true)
+![Languages](https://img.shields.io/badge/GitHub_Languages-Check&style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
