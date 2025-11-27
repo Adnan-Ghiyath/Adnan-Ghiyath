@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Adnan Ghiyath
 
-**C# & SQL Developer — Building smart apps and learning new technologies.**  
+**Full-Stack Developer — Building smart apps and learning new technologies.**  
 💡 I believe that *programming is about logic… The language is just a tool.*
 
 ---
@@ -8,7 +8,10 @@
 ### 🚀 About Me
 - 🇸🇾 From Syria — Based in UAE
 - 🧑‍💻 Passionate about creating useful software
-- 🎯 Working on real projects that solve real problems
+- 🎯 Capabilities:
+  - Developing **websites** from scratch  
+  - Developing **desktop applications** from start to finish  
+  - **Creating, organizing, and managing SQL databases**  
 
 ---
 
@@ -32,12 +35,20 @@
 
 ### 📌 Featured Projects
 
+#### 🚀 Major Apps
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Raiden** | Smart voice-assistant mobile app | C#, SQL |
 | **School Pro System** | Real school management system (sellable product) | C#, WPF, SQL |
 
-> More projects coming soon… stay tuned! 🚀
+#### 🎓 Learning / Training Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Pizza Project** | Desktop app for managing pizza orders | C#, SQL |
+| **Driving School System** | Desktop management system | C#, WPF, SQL |
+| **Requirements Project** | Small project to practice requirements analysis | C# |
+| **Tic-Tac-Toe Game** | Simple desktop game | C# |
+| **Web Pages Collection** | Practice web development | HTML, CSS, JavaScript |
 
 ---
 
